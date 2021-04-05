@@ -53,6 +53,7 @@ Topics Covered:
 
 Module 7: Data Visualization
 
-Assignment 1: Feature Importance 
+Assignment 1: Feature Importance
+
 Assignment 2: Auto EDA tool
 
